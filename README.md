@@ -1,4 +1,5 @@
 theme: jekyll-theme-Slate
+remote_theme: Slate
 
 # h1 Heading
 ## h2 Heading
