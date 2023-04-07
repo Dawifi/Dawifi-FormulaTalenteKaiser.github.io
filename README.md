@@ -9,7 +9,7 @@
 
 
 ______________
-jekyll-theme-minimal
+
  
 # Emphasis
 **Meet bold Text**
