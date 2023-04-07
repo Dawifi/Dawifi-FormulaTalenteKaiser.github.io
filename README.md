@@ -121,4 +121,7 @@ Right aligned columns.
           <input type='text' placeholder="NT$100"
           <div class="button>"
             donate us
+           <"div class="button>"
+          <input type='text' placeholder="NT$1000"
+          <div class="button>"
         </div>
