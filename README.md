@@ -12,8 +12,8 @@ ______________
 
  
 # Emphasis
-**Kaiser Lee**
-__Meet bold Text__
+**Meet Kaiser Lee**
+__Meet Kaiser Lee__
 
 **This is bold Text**
 
