@@ -35,7 +35,7 @@
 
     <div class="cover">
 
-        <div class="information">
+    <div class="information">
             <h1>-</h1>
             <h3>Proving all</h3>
             <h2>To be taiwan's First Indycar or Formula Driver</h2>
