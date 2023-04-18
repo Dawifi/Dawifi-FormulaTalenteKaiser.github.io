@@ -54,7 +54,7 @@
         <div class="imgcontanner">
             <div class="aboutimg"></div>
         </div>
-        <div class="aboutcontent">
+    <div class="aboutcontent">
             <h5>_</h5>
             <h1>Why Should You Donate?</h1>
             <p>For most drivers without the financial support or locked geocentrically when it comes to avability in one's countries its more common for it end as a hobby more than a proffesional and effective career. Some can also because tha age that one can satrt either late in teens or even in their 20s</p>
@@ -77,15 +77,15 @@
 
             <div class="info">
 
-                <div class="logo"><i class="fas fa-book-reader"></i></div>
+<div class="logo"><i class="fas fa-book-reader"></i></div>
                 <p id="head">Who is Kaiser</p>
-                <p>Born 2008 in the city of New Taipei Taiwan, Kaiser has walways had the passion of racing since when he was 5, he never knew he not only had the passiosn of cars but the talent to. He driven his first kart when he was 9 years of age winning his first and only race when he was 10 due to financial issues.</p>
+                <p>Born 2008 in the city of New Taipei Taiwan, Kaiser has walways had the passion of racing since when he was 5, he never knew he not only had the passion of cars but the talent to. He driven his first kart when he was 9 years of age then winning his first and only race when he was 10 due to financial issues.</p>
 
             </div>
 
             <div class="info" data-aos="fade-up">
 
-                <div class="logo"><i class="fas fa-book-open"></i></div>
+<div class="logo"><i class="fas fa-book-open"></i></div>
                 <p id="head">His Skills</p>
                 <p>When racing, he has a great sense of the throttle being able to step on the power earlier and able to for many types of croner even when it meeant a need for heavy breaking</p>
             </div>
