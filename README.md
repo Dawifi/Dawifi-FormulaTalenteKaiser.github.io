@@ -11,7 +11,10 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/index.css">
+</head>
+<body>   
     <title>“I’ve always believed that you should never, ever give up and you should always keep fighting even when there’s only a slightest chance.” – Michael Schumacher</title>
+        </div>
 </head>
 <body>
     <div class="nevbar" id="nevbar">
@@ -87,7 +90,7 @@
 
 <div class="logo"><i class="fas fa-book-open"></i></div>
                 <p id="head">His Skills</p>
-                <p>When racing, he has a great sense of the throttle being able to step on the power earlier and able to for many types of croner even when it meeant a need for heavy breaking</p>
+                <p>When racing, he has a great sense of the throttle being able to step on the power earlier and able to for many types of croner even when it meeant a need for heavy breaking or overtakes.</p>
             </div>
 
 <div class="logo"><i class="fas fa-book-open"></i></div>
