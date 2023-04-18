@@ -10,10 +10,11 @@
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/index.css">
-</head>
-<body>   
-    <title>“I’ve always believed that you should never, ever give up and you should always keep fighting even when there’s only a slightest chance.” – Michael Schumacher</title>
+    <link rel="stylesheet" href="css/index.css">   
+    <div class="nevbar" id="nevbar">
+        <div class="logo">
+            <a href="/index.html" id="logo">h1><span><“I’ve always believed that you should never</span>ever give up and you should always keep fighting even when there’s only a slightest chance.” – Michael Schumacher</title></h1></a>
+        </div>  <title>“I’ve always believed that you should never, ever give up and you should always keep fighting even when there’s only a slightest chance.” – Michael Schumacher</title>
         </div>
 </head>
 <body>
