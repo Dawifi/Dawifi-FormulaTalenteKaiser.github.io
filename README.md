@@ -52,14 +52,14 @@
 
     <div class="about">
         <div class="imgcontanner">
-            <div class="aboutimg"></div>
+           <div class="aboutimg"></div>
         </div>
     <div class="aboutcontent">
             <h5>_</h5>
             <h1>Why Should You Donate?</h1>
             <p>For most drivers without the financial support or locked geocentrically when it comes to avability in one's countries its more common for it end as a hobby more than a proffesional and effective career. Some can also because tha age that one can satrt either late in teens or even in their 20s</p>
             <p>This may allow me to further my career restarting, improving it to the fullest. my goal this year maybe to suceed more into junior and senior karts such as the world championship and junior IAME series.</p>
-            <a href="[https://rzp.io/l/oPJb73G7Fl](https://formulatalentekaiser.github.io/)" target="black">DONATE</a>
+            <a href="https://formulatalentekaiser.github.io/" target="black">DONATE</a>
             <br>
             <br>
             <h5>_</h5>
@@ -71,6 +71,7 @@
     <div class="service" id="service">
 
         <h5>SERVICES</h5>
+        <h1>About details></h1>
         
 
         <div class="details">
@@ -80,10 +81,9 @@
 <div class="logo"><i class="fas fa-book-reader"></i></div>
                 <p id="head">Who is Kaiser</p>
                 <p>Born 2008 in the city of New Taipei Taiwan, Kaiser has walways had the passion of racing since when he was 5, he never knew he not only had the passion of cars but the talent to. He driven his first kart when he was 9 years of age then winning his first and only race when he was 10 due to financial issues.</p>
-
-            </div>
-
-            <div class="info" data-aos="fade-up">
+             </div>
+             <div class="info" data-aos="fade-up">
+            
 
 <div class="logo"><i class="fas fa-book-open"></i></div>
                 <p id="head">His Skills</p>
@@ -94,8 +94,8 @@
                 <p id="head">Natural ABS </p>
                 <p>Not only does he have a good sense in throttle but also for rbeaking. Whether at short or long straights to even in chicanes</p>
             </div>
-      
             <div class="info" data-aos="fade-up">
+            
             </div>
 
         </div>
