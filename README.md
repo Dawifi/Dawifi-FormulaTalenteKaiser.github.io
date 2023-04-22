@@ -11,11 +11,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/index.css">   
-    <div class="nevbar" id="nevbar">
-        <div class="logo">
-    
-     <title>“I’ve always believed that you should never, ever give up and you should always keep fighting even when there’s only a slightest chance.” – Michael Schumacher</title>
-        </div>
+    <title>“I’ve always believed that you should never, ever give up and you should always keep fighting even when there’s only a slightest chance.” – Michael Schumacher</title>
 </head>
 <body>
     <div class="nevbar" id="nevbar">
@@ -29,7 +25,7 @@
                 <li><a href="#service">Service</a></li>
                 <li><a href="#contact">Contact</a></li>
                 <li><a id="about" href="http://aboutayush.c1.biz/" target="blank">About me</a></li>
-                <li><a id="donate" href="https://rzp.io/l/oPJb73G7Fl" target="blank">Donate</a></li>
+                <li><a id="donate" https://formulatalentekaiser.github.io/" target="blank">Donate</a></li>
             </ul>
         </div>
         <div class="menuicon">
@@ -47,7 +43,7 @@
             <h3> <span>Kaiser Lee</span> </h3>
             <h1>-</h1>
             <a href="#explore"><button>EXPLORE</button></a>
-            <a href="https://rzp.io/l/oPJb73G7Fl" target="blank"><button>DONATE</button></a>
+            <a href="https://formulatalentekaiser.github.io/" target="blank"><button>DONATE</button></a>
         </div>
 
     </div>
@@ -63,7 +59,7 @@
             <h1>Why Should You Donate?</h1>
             <p>For most drivers without the financial support or locked geocentrically when it comes to avability in one's countries its more common for it end as a hobby more than a proffesional and effective career. Some can also because tha age that one can satrt either late in teens or even in their 20s</p>
             <p>This may allow me to further my career restarting, improving it to the fullest. my goal this year maybe to suceed more into junior and senior karts such as the world championship and junior IAME series.</p>
-            <a href="https://rzp.io/l/oPJb73G7Fl" target="black">DONATE</a>
+            <a href="[https://rzp.io/l/oPJb73G7Fl](https://formulatalentekaiser.github.io/)" target="black">DONATE</a>
             <br>
             <br>
             <h5>_</h5>
