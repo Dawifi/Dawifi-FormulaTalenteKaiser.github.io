@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/index.css">   
-    <title>“I’ve always believed that you should never, ever give up and you should always keep fighting even when there’s only a slightest chance.” – Michael Schumacher</title>
+    <title>“I’ve always believed that you should never, ever give up and you should always keep fighting even when there’s only a slightest chance.”</title>
 </head>
 <body>
     <div class="nevbar" id="nevbar">
@@ -24,8 +24,8 @@
                 <li><a href="#explore">Explore</a></li>
                 <li><a href="#service">Service</a></li>
                 <li><a href="#contact">Contact</a></li>
-                <li><a id="about" href="http://aboutayush.c1.biz/" target="blank">About me</a></li>
-                <li><a id="donate" https://formulatalentekaiser.github.io/" target="blank">Donate</a></li>
+                <li><a id="about" href="https://gogetfunding.com/my-dashboard/" target="blank">About me</a></li>
+                <li><a id="donate"https://gogetfunding.com/my-dashboard/" target="blank">Donate</a></li>
             </ul>
         </div>
         <div class="menuicon">
@@ -37,8 +37,8 @@
 
     <div class="information">
             <h1>-</h1>
-            <h3>Proving all</h3>
-            <h2>To be taiwan's First Indycar or Formula Driver</h2>
+            <h3> Proving all </h3>
+            <h2> To be taiwan's First Indycar or Formula Driver </h2>
             <h1> <span>From Karting to the highest</span> </h1>
             <h3> <span>Kaiser Lee</span> </h3>
             <h1>-</h1>
@@ -95,6 +95,12 @@
                 <p>Not only does he have a good sense in throttle but also for rbeaking. Whether at short or long straights to even in chicanes</p>
             </div>
             <div class="info" data-aos="fade-up">
+
+<div class="logo"><i class="fas fa-book-open"></i></div>
+                <p id="head">Future Plans </p>
+                <p>" I always like to plan ahead for some reasons i really hope to win several junior steps to either ladn a championship in Indycar or the Glorious Fomrula 1, as ever since i was a child i have dreamt of overtaking 1000hp beasts to spray the champagne , Not only but i really hope to be signed by redbull or Mclaren academy or their Junior roster".s</p>
+            </div>
+            <div class="info" data-aos="fade-up">
             
             </div>
 
@@ -102,6 +108,7 @@
 
     </div>
 
+</div>
 
     <!---------------------------- contact ------------------- -->
 
